@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: cithit/roseaw:build-4
+       image: cithit/roseaw:build-8
         ports:
         - containerPort: 80
 ---
